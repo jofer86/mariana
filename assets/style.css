@@ -7,6 +7,9 @@
   text-align: center;
 }
 
+.centerfix {
+  height: 130px;
+}
 
 #loading{
   color: #fff;
