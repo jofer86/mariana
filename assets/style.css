@@ -1,6 +1,11 @@
 *{
   margin: 0;
   padding: 0;
+  
+}
+
+body {
+  background: #3c1361;
 }
 
 .tac {
@@ -9,6 +14,27 @@
 
 .centerfix {
   height: 130px;
+}
+
+.purple {
+  background:#3c1361
+
+}
+
+.purple2 {
+  color: #bca0dc;
+}
+
+.purple3 {
+  background: #52307c;
+}
+
+.purple4 {
+  background: #663a82;
+}
+
+.purple5 {
+  background: #7c5295;
 }
 
 #loading{
